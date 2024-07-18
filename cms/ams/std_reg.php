@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="form-wrap">
-        <div class="form-items">
+        <div class="form-items"></div>
             <h2 class="form-title">Students Registration</h2>
             <form action="./include/reg.php" method="post">
                 <div class="form-row">
